@@ -8,8 +8,8 @@ This project is about scraping web search results and fetch the official website
 If none of the condition is matched, the result is not an official website of the searched name.
 
 Here are two different codes,
-scrap_official_websites
+### scrap_official_websites
 In this code, the company names are read from company_name.csv. Then scrapped and return the official website if available.
 
-search_official_website
+### search_official_website
 In this code, the company names are taken from user input. Then scrapped and return the official website if available.
