@@ -1,4 +1,7 @@
+# Official_site_extractor_using_webscraping
+---
 This project is about scraping web search results and fetch the official websites of companies. To automate search and scrap, duckduckgo API is used as it doesn't require API key or CSE ID. The first result of the search is fetched as the official website are always the first url. After fetching the url, it has to be verified whether the url is genuinely the official or not. So the logic here is either,
+
 1. The whole company name is present in domain name.
 2. The first word of the company name is present in domain name.
 3. The Initials of the Company name is present in the domain name.
